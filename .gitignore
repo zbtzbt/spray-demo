@@ -1,0 +1,22 @@
+#folder
+target/
+#fixed file
+.class
+.exe
+.log
+.prefs
+.classpath
+.metadata
+.settings
+.DS_Store
+Thumbs.db
+.project
+*.iml
+*.ipr
+*.iws
+config.properties
+*.tar.gz
+.idea
+test-output
+rebel.xml
+
